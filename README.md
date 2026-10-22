@@ -21,5 +21,3 @@ Publique a pasta `out` na Vercel, Netlify ou GitHub Pages. Na Vercel/Netlify bas
 - `app/layout.tsx`: título, descrição (SEO) e fontes.
 - `public/`: coloque aqui sua foto (ex.: `profile.webp`) e use no lugar do "HM" no hero.
 
-## Dica
-Antes de publicar, abra cada link "Ver online" em `data/portfolio.ts` e apague o campo `live` dos projetos que não estiverem no ar.
